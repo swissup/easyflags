@@ -12,7 +12,7 @@ Swissuplabs and Argento customers get access to Swissuplabs composer repository.
 composer config repositories.ci.swissuplabs.com composer https://ci.swissuplabs.com/api/packages.json
 ```
 
-For next steps go to http://docs.swissuplabs.com/m2/extensions/richsnippets/installation/composer/
+For next steps go to http://docs.swissuplabs.com/m2/extensions/easyflags/installation/composer/
 
 ### Anyone else
 
