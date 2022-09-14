@@ -2,9 +2,9 @@
     "name": "swissup/easyflags",
     "description": "Replace default store switcher with flag images",
     "type": "metapackage",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-easyflags": "^1.4.0"
+        "swissup/module-easyflags": "^1.4.1"
     }
 }
